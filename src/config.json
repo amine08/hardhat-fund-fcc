@@ -1,0 +1,10 @@
+{
+    "31337":{
+        "FundMe":{
+            "address":"0xc2724d1efa3e004391839573d8657787bc897d5d3e36bc5c9f69eadc736ecac5"
+        },
+        "MockV3Aggregator":{
+            "address":"0x3d732abdeda8235691578f5eae48ec57c18e6860c18196ab7b211ca8f74dce2b"
+        }
+    }
+}
